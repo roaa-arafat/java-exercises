@@ -3,11 +3,14 @@ package w4;
 public class w4_task3 {
 
     public static void main(String[] args) {
-        int n = w4_task2.readNumber();
+       
         int n1 = w4_task2.readNumber();
         int n2 = w4_task2.readNumber();
-
-        int a[] = new int[n];
+        int s = w4_task2.add(n1, n2);
+        System.out.println("sum = "+s);
+        
+       int n = w4_task2.readNumber(); 
+       int a[] = new int[n];
         fillArray(a);
         printArray(a);
     }
