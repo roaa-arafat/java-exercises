@@ -13,6 +13,8 @@ public class person_test1 {
         p2.age = 20;
 
         p1.talk();
+        p1.age();
         p2.talk();
+        p2.age();
     }
 }
