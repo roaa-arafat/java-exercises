@@ -9,8 +9,8 @@ public class person {
         System.out.println("Hello my name is " + name);
     }
 
-    public void eat() {
-        System.out.println("i am eating......");
-    }
+    public void age() {
+  System.out.println("my  age is "+age);     }
 
 }
+
