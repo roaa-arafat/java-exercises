@@ -8,7 +8,7 @@ This project contains Java exercises and examples from lectures.
 - Week 3 Exercises
 - Week 4 Exercises  
 - week 5 - Employee and Person Classes
-- week 6 - Employee 
+- week 6 - Employee and circle
 
 ## Notes
 All exercises and examples are from course lectures.
